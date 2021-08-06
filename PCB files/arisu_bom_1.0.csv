@@ -1,0 +1,48 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,Unpolarized capacitor,C,C6 C7 C8 C9,0.1uF,C_0805_HandSoldering,4,~
+2,Unpolarized capacitor,C,C3,10uF,C_0805_HandSoldering,1,~
+3,Unpolarized capacitor,C,C5,1uF,C_0805_HandSoldering,1,~
+4,Unpolarized capacitor,C,C4,1uF (±10%),C_0805_HandSoldering,1,~
+5,Unpolarized capacitor,C,C1 C2,22pF,C_0805_HandSoldering,2,~
+6,Diode,D,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67,D,D_SOD-123,67,~
+7,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J13,D+,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+8,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J14,D-,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+9,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J7 J15,GND,Pin_Header_Straight_1x01_Pitch2.54mm,2,~
+10,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J2,MISO,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+11,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J5,MOSI,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+12,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J8,PF4,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+13,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J9,PF5,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+14,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J10,PF6,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+15,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J11,PF7,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+16,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J6,RES,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+17,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J4,SCK,Pin_Header_Straight_1x01_Pitch2.54mm,1,~
+18,USB Micro Type B connector,USB_B_Micro,J1,USB_B_Micro,USB_Micro-B_Molex-105017-0001,1,~
+19,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J3 J12,VCC,Pin_Header_Straight_1x01_Pitch2.54mm,2,~
+20,Resistor,R,R3 R4,10K,R_0805_HandSoldering,2,~
+21,Resistor,R,R1 R2,22,R_0805_HandSoldering,2,~
+22,"Push button switch, generic, two pins",SW_Push,SW1 SW6 SW7 SW8 SW9 SW10 SW11 SW12 SW13 SW15 SW16 SW17 SW18 SW19 SW20 SW21 SW22 SW24 SW25 SW26 SW27 SW28 SW29 SW30 SW31 SW32 SW33 SW34 SW35 SW36 SW38 SW39 SW40 SW41 SW42 SW43 SW44 SW45 SW47 SW48 SW49 SW50 SW51 SW52 SW53 SW55 SW56 SW58 SW59 SW61 SW62 SW63 SW64 SW65 SW66 SW67,SW_Push,SW_Cherry_MX_1.00u_PCB,56,
+23,"Push button switch, generic, two pins",SW_Push,SW2 SW5 SW14 SW46 SW60,SW_Push,SW_Cherry_MX_1.50u_PCB,5,
+24,"Push button switch, generic, two pins",SW_Push,SW23,SW_Push,SW_Cherry_MX_2.00u_PCB_ReversedStabilizers,1,
+25,"Push button switch, generic, two pins",SW_Push,SW3 SW54,SW_Push,SW_Cherry_MX_1.75u_PCB,2,
+26,"Push button switch, generic, two pins",SW_Push,SW37,SW_Push,SW_Cherry_MX_2.75u_PCB_ReversedStabilizers,1,
+27,"Push button switch, generic, two pins",SW_Push,SW4,SW_Push,SW_Cherry_MX_2.25u_PCB,1,
+28,"Push button switch, generic, two pins",SW_Push,SW57,SW_Push,SW_Cherry_MX_2.25u_PCB_ReversedStabilizers,1,
+29,"Push button switch, generic, two pins",SW_Push,SWR1,SW_Push,SW_SPST_TL3342,1,
+30,"16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",ATmega32U4-AU,U2,ATmega32U4-AU,TQFP-44_10x10mm_Pitch0.8mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
+31,"Bidirectional ESD Protection Diode, SOT-23-6",USBLC6-2SC6,U1,USBLC6-2SC6,SOT-23-6_Handsoldering,1,http://www2.st.com/resource/en/datasheet/CD00050750.pdf
+32,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Y1,Crystal_GND24,Crystal_SMD_SeikoEpson_FA238-4pin_3.2x2.5mm_HandSoldering,1,~
+
+
+
+
+
+Component Groups:,32
+Component Count:,166
+Fitted Components:,166
+Number of PCBs:,1
+Total components:,166
+Schematic Version:,1.0
+Schematic Date:,
+BoM Date:,2/10/2019 10:20:54 PM
+Schematic Source:,D:\Users\Will\Documents\arisu-pcb\arisu.sch
+KiCad Version:,Eeschema (5.0.2)-1
