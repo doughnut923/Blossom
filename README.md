@@ -1,4 +1,4 @@
-# Hirakusu
+# Blossom
 
 An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Arisu](https://github.com/FateNozomi/arisu-case)
 
