@@ -6,6 +6,8 @@ An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Ari
 
 ## Features
 
+![Hirakusu](Renders/logo.png)
+
 - Gasket Mounted Desgin
 - Includes dxf files of sound dampening material between PCB and plate
 - 5 degree typing angle
