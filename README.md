@@ -2,7 +2,7 @@
 
 An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Arisu](https://github.com/FateNozomi/arisu-case)
 
-![Hirakusu](Renders/frost.png)
+![Hirakusu](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/new_frost.png?raw=true)
 
 ## Features
 
