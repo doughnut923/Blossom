@@ -1,0 +1,34 @@
+Designator,Comment,Footprint
+"C1, C2",22pF,Capacitors_SMD:C_0805_HandSoldering
+C3,10uF,Capacitors_SMD:C_0805_HandSoldering
+C4,1uF (±10%),Capacitors_SMD:C_0805_HandSoldering
+C5,1uF,Capacitors_SMD:C_0805_HandSoldering
+"C6, C7, C8, C9",0.1uF,Capacitors_SMD:C_0805_HandSoldering
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67",D,Diodes_SMD:D_SOD-123
+"H1, H2, H3, H4, H5, H6, H7, H8",MountingHole,Mounting_Holes:MountingHole_2.2mm_M2_Pad
+J1,USB_B_Micro,Connectors_USB:USB_Micro-B_Molex-105017-0001
+J2,MISO,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+"J3, J12",VCC,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J4,SCK,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J5,MOSI,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J6,RES,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+"J7, J15",GND,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J8,PF4,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J9,PF5,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J10,PF6,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J11,PF7,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J13,D+,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+J14,D-,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm
+"R1, R2",22,Resistors_SMD:R_0805_HandSoldering
+"R3, R4",10K,Resistors_SMD:R_0805_HandSoldering
+"SW1, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW24, SW25, SW26, SW27, SW28, SW29, SW30, SW31, SW32, SW33, SW34, SW35, SW36, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW47, SW48, SW49, SW50, SW51, SW52, SW53, SW55, SW56, SW58, SW59, SW61, SW62, SW63, SW64, SW65, SW66, SW67",SW_Push,MX_Switch:SW_Cherry_MX_1.00u_PCB
+"SW2, SW5, SW14, SW46, SW60",SW_Push,MX_Switch:SW_Cherry_MX_1.50u_PCB
+"SW3, SW54",SW_Push,MX_Switch:SW_Cherry_MX_1.75u_PCB
+SW4,SW_Push,MX_Switch:SW_Cherry_MX_2.25u_PCB
+SW23,SW_Push,MX_Switch:SW_Cherry_MX_2.00u_PCB_ReversedStabilizers
+SW37,SW_Push,MX_Switch:SW_Cherry_MX_2.75u_PCB_ReversedStabilizers
+SW57,SW_Push,MX_Switch:SW_Cherry_MX_2.25u_PCB_ReversedStabilizers
+SWR1,SW_Push,Buttons_Switches_SMD:SW_SPST_TL3342
+U1,USBLC6-2SC6,TO_SOT_Packages_SMD:SOT-23-6_Handsoldering
+U2,ATmega32U4-AU,Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm
+Y1,Crystal_GND24,Crystals:Crystal_SMD_SeikoEpson_FA238-4pin_3.2x2.5mm_HandSoldering

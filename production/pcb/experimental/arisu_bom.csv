@@ -1,0 +1,17 @@
+Desginator,Comment,Footprint
+"C1, C2",22pF,Capacitor_SMD:C_0805_2012Metric
+C3,10uF,Capacitor_SMD:C_0805_2012Metric
+C4,1uF (+-10%),Capacitor_SMD:C_0805_2012Metric
+C5,1uF,Capacitor_SMD:C_0805_2012Metric
+"C6, C7, C8, C9",0.1uF,Capacitor_SMD:C_0805_2012Metric
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67",D,Diodes_SMD:D_SOD-123
+"D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82, D83",WS2812B,LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+"H1, H2, H3, H4, H5, H6, H7, H8",MountingHole,Mounting_Holes:MountingHole_2.2mm_M2_Pad
+J1,USB_B_Micro,Connectors_USB:USB_Micro-B_Molex-105017-0001
+"R1, R2",22,Resistor_SMD:R_0805_2012Metric
+"R3, R4",10K,Resistor_SMD:R_0805_2012Metric
+R5,500,Resistor_SMD:R_0805_2012Metric
+SWR1,SW_Push,Buttons_Switches_SMD:SW_SPST_TL3342
+U1,USBLC6-2SC6,TO_SOT_Packages_SMD:SOT-23-6_Handsoldering
+U2,ATmega32U4-AU,Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm
+Y1,Crystal_GND24,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm
