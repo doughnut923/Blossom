@@ -4,13 +4,13 @@ An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Ari
 
 ![Hirakusu](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/new_frost.png?raw=true)
 
-## Features
-
 ![Hirakusu](Renders/logo.png)
 
-- Gasket Mounted Desgin
+## Features
+- Designed for 3d printing or other plastic materials
+- Gasket Mounted Desgin using gasket strips on the side of the plate
+   - Strip material: Poron Foam or Silicon Rubber
 - Includes dxf files of sound dampening material between PCB and plate
-- 5 degree typing angle
 - Compatible with [FateNozomi's PCB](https://github.com/FateNozomi/arisu-pcb)
 
 ## Layers
@@ -19,11 +19,12 @@ An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Ari
 
 ## Specifications 
 
-- Dimensions: 30x142x375cm (DxHxW)
-- Front Height: 16.5cm
+- Dimensions: 30x142x375mm (DxHxW)
+- Front Height: 16.5mm
+- 5 degree typing angle
 
 ### Use the files at your own risk
-### PCB file is still under development,you can use it, but also at your own risk
+### PCB files are still under development,you can use it, but also at your own risk
 
 ## DIY Guide
 
