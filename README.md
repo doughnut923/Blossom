@@ -44,19 +44,33 @@ An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Ari
 ###Assembly
 ------------
 **Step 1** - Install the switches into the plate
+
 ![step 1](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step1.png?raw=true "step 1")
+
 **Step 2** - place the sound dampening material between the plate and PCB
+
 ![step 2](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step2_120_SparkVideo.gif?raw=true "step 2")
+
 **Step 3** - Solder the switches
+
 **Step 4** - Stick the gasket of the material of your choice to the extended positions on the plate
+
 ![step4](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step3.gif?raw=true "step4")
+
 **Step 5**  - Install the M2.5 inserts in the 8 positions on the upper case shown below
+
 ![Step 5](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step5_1.png?raw=true "Step 5")
+
 **Step 6** - Place the plate with the pcb on top of the bottom case
+
 ![Step 6](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step4.jpg?raw=true "Step 6")
+
 **Step 7** - Cover it with the upper case
+
 ![Step 7](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step6.jpg?raw=true "Step 7")
+
 **Final Step** - Install screw in the following positions to fix both upper and bottom case
+
 ![Final Step](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step7_1.png?raw=true "Final Step")
 
 
