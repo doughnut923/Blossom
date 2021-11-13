@@ -23,7 +23,7 @@ An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Ari
 - Front Height: 16.5mm
 - 5 degree typing angle
 
-#Notes
+# Notes
 - **Use the files at your own risk**
 - **PCB files are still under development,you can use it, but also at your own risk**
 
