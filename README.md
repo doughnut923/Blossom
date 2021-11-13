@@ -15,7 +15,7 @@ An open-sourced Alice/Arisu style keyboard case. Modified from [FateNozomi's Ari
 
 ## Layers
 
-![Layers](Renders/layers.png)
+![Layers](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/layer_new_1.png?raw=true)
 
 ## Specifications 
 
