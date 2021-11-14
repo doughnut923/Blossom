@@ -90,5 +90,5 @@ Below is the contents of the respected folders in this GitHub Repo:
 
 **Final Step** - Connect your keyboard to a computer. Download the [Arisu Firmware from VIA](https://caniusevia.com/docs/download_firmware/#0) and fiash it to your keyboard. Tools such as [QMK Toolbox](https://github.com/qmk/qmk_toolbox) Is recommended. Here is a [quick guide](https://www.youtube.com/watch?v=fuBJbdCFF0Q&t=203s) on how to use QMK toolbox just for reference.
 
-If you are using the experimental version. you need to chnage the `config.h` file's `RGB_DI_PIN`'s value to `F4`
+If you are using the experimental version. you need to change the `config.h` file's `RGB_DI_PIN`'s value to `F4`
 
