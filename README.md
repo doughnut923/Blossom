@@ -86,7 +86,7 @@ Below is the contents of the respected folders in this GitHub Repo:
 
 **Step 8** - Install screw in the following positions to fix both upper and bottom case
 
-![Final Step](https://github.com/Step 8uy/Blossom/blob/main/Renders/step7_1.png?raw=true "Final Step")
+![Final Step](https://github.com/DoughnutTheGuy/Blossom/blob/main/Renders/step7_1.png?raw=true "Final Step")
 
 **Final Step** - Connect your keyboard to a computer. Download the [Arisu Firmware from VIA](https://caniusevia.com/docs/download_firmware/#0) and fiash it to your keyboard. Tools such as [QMK Toolbox](https://github.com/qmk/qmk_toolbox) Is recommended. Here is a [quick guide](https://www.youtube.com/watch?v=fuBJbdCFF0Q&t=203s) on how to use QMK toolbox just for reference.
 
