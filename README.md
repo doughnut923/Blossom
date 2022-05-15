@@ -32,7 +32,7 @@ If you just want to build your own Blossom using the easiest steps just skip to 
 Below is the contents of the respected folders in this GitHub Repo:
 - `PCB files` - contains the Kicad project of the experimental version of the PCB(with underglow), modified from original FateNozomi's one.
 - `Renders` - contains image assets.
-- `blender` - contain Blender file of the case.
+- `blender` - contain Blender file of the case in case you need to do some edits to the model.
 - ` case_stls` - stl files exported from Blender.
 - `plate_dxfs` - contains dxf files for plate and gasket
 - `production` - contains files necessary for DIY or production
